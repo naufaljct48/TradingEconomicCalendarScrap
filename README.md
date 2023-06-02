@@ -1,4 +1,4 @@
-# TradingEconomicCalendarScrap
+# Trading Economic Calendar Scrap
 Get TradingEconomic Calendar by High Impact News
 
 ## Installation

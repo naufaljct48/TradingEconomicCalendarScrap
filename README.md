@@ -1,6 +1,6 @@
 # Trading Economic Calendar Scrap
 Get TradingEconomic Calendar by High Impact News
-tradingeconomics.com/calendar
+Link tradingeconomics.com/calendar
 
 ## Installation
 ```bash

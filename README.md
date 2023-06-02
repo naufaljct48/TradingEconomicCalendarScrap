@@ -4,9 +4,10 @@
 Python Scripts which scrapes news events from the news calendar at [tradingeconomics.com](https://tradingeconomics.com/calendar) by High Impact News
 
 ## Installation
-```bash
-pip install requests
-pip install bs4
+```
+$ pip install requests
+$ pip install bs4
+$ py main.py
 ```
 ## Usage
 ```typescript

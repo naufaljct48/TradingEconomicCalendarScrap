@@ -1,5 +1,7 @@
 # Trading Economic Calendar Scrap
-Get TradingEconomic Calendar by High Impact News
+
+## Introduction
+Python Scripts which scrapes news events from the news calendar at tradingeconomics.com by High Impact News
 
 ## Installation
 ```bash
